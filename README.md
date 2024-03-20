@@ -2,4 +2,4 @@
 
 ![image](image.png)
 
-Src: [BMKG Indonesia](https://www.bmkg.go.id/)
+Data from: [BMKG Indonesia](https://www.bmkg.go.id/)
